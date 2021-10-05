@@ -9,3 +9,9 @@ Python version: 3.9
 pip install -r requirements.txt
 ```
 
+### Run example
+
+```bash
+python monotone_conjugation_check.py -i data/in.txt -o data/out.txt
+```
+
